@@ -8,8 +8,8 @@ Link to the Figma Prototype: https://www.figma.com/proto/yC5A4P34amlZWR7zSyeUCO/
 
 Top 5 features unavailable in the LMS apps currently in market: 
 
-AI-Powered Study Recommendations
-Smart Group Chat Summarizer
-Voice-to-Text Notes for Assignments
-Automatic Resource Highlighter
-Focus & Productivity Tracker
+AI-Powered Study Recommendations                                                                                                                                           
+Smart Group Chat Summarizer                                                                                                                                                
+Voice-to-Text Notes for Assignments                                                                                                                                        
+Automatic Resource Highlighter                                                                                                                                             
+Focus & Productivity Tracker                                                                                                                                               
